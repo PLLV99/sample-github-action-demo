@@ -46,7 +46,7 @@
 ```groovy
 environment {
     DOCKER_HUB_CREDENTIALS_ID = 'dockerhub-cred'
-    DOCKER_REPO = "iamsamitdev/express-docker-app"
+    DOCKER_REPO = "sakamotolv99/express-docker-app"
     DEV_APP_NAME = "express-app-dev"
 }
 ```
